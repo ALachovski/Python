@@ -1,0 +1,11 @@
+>>> nome "neri"
+>>> sobrenome "neitzke"
+>>> nomecompleto = nome+sobrenome;
+>>> print (nomecompleto)
+neri neitzke
+
+>>> print (nome+nome+nome+sobrenome)
+nerinerineri neitzke
+
+>>> print (nome*5)
+nerinerinerinerineri

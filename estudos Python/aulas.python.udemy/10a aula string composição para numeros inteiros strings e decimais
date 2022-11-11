@@ -1,0 +1,14 @@
+>>> idade = 28
+>>> salario = 2000
+>>> print ("nome.: " ,nome, " - idade" ,idade, " - salario " ,salario, "
+nome.: neri - idade 28 - salario 2000
+
+>>> print ( "nome.: %s - idade %d - salario %f" % (nome, idade, salario) )
+nome.: neri - idade 28 - salario 2000.0000
+
+>>> print ( "nome.: %s - idade %d - salario %d" % (nome, idade, salario) )
+nome.: neri - idade 28 - salario 2000
+
+
+
+

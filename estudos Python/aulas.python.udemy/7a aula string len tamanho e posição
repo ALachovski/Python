@@ -1,0 +1,8 @@
+String Len Tamanho Posição
+>>>nome = "neri aldoir neitzke"
+>>>print ( "nome .:" ,nome)
+>>>tamanho = len (nome) 
+>>>print ( "tamanho.:",tamanho)
+tamanho.: 19
+>>>print (nome [5])   a contagem do sistema começa como 0,1,2,3... 
+a

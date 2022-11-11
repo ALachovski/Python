@@ -1,0 +1,13 @@
+>>> nome = "neri neitzke"
+>>> print (nome [0:5])
+neri 
+
+>>> print (nome [0:4])
+ner
+
+>>> print ("nome ->" nome[0:4])
+nome -> neri
+
+ >>> print (nome [:5]) quando colocado apenas o 5 sem outro numero anteriormente, ele printa todo o conteudo apos o quinto caracteri
+neitzke
+
